@@ -12,6 +12,10 @@ on:
         description: Catalog commit supplied by automation
         type: string
         required: false
+      include_nov18:
+        description: Include November 18 footage for the source Shorts batch
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -23,6 +27,7 @@ jobs:
       mode: themed
       engine: justsomeoneretarded/GTA-6-Clipper-shorts
       catalog_ref: ${{ inputs.catalog_ref }}
+      include_nov18: ${{ inputs.include_nov18 }}
     secrets:
       GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
