@@ -1,0 +1,19 @@
+name: Produce GTA VI Themed Videos
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '31 9 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  produce:
+    uses: justsomeoneretarded/GTA-6-Clipper-shorts/.github/workflows/editor.yml@main
+    with:
+      mode: themed
+      engine: justsomeoneretarded/GTA-6-Clipper-shorts
+    secrets:
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      CATALOG_TOKEN: ${{ secrets.CATALOG_TOKEN }}
