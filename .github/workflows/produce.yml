@@ -25,5 +25,8 @@ jobs:
       catalog_ref: ${{ inputs.catalog_ref }}
     secrets:
       GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+      TWITCH_CLIENT_ID: ${{ secrets.TWITCH_CLIENT_ID }}
+      TWITCH_CLIENT_SECRET: ${{ secrets.TWITCH_CLIENT_SECRET }}
       CATALOG_TOKEN: ${{ secrets.CATALOG_TOKEN }}
       YOUTUBE_COOKIES: ${{ secrets.YOUTUBE_COOKIES || secrets.YT_COOKIES || secrets.YOUTUBE_COOKIES_TXT || secrets.YOUTUBE_COOKIES_B64 }}
