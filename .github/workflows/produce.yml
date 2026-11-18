@@ -17,3 +17,4 @@ jobs:
     secrets:
       GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       CATALOG_TOKEN: ${{ secrets.CATALOG_TOKEN }}
+      YOUTUBE_COOKIES: ${{ secrets.YOUTUBE_COOKIES || secrets.YT_COOKIES || secrets.YOUTUBE_COOKIES_TXT || secrets.YOUTUBE_COOKIES_B64 }}
