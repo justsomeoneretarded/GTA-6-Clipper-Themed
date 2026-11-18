@@ -1,9 +1,17 @@
 name: Produce GTA VI Themed Videos
+run-name: ${{ inputs.shorts_run && format('Shorts batch {0}', inputs.shorts_run) || 'Manual GTA VI Themed Videos' }}
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '31 9 * * *'
+    inputs:
+      shorts_run:
+        description: Shorts batch ID supplied by automation
+        type: string
+        required: false
+      catalog_ref:
+        description: Catalog commit supplied by automation
+        type: string
+        required: false
 
 permissions:
   contents: write
@@ -14,6 +22,7 @@ jobs:
     with:
       mode: themed
       engine: justsomeoneretarded/GTA-6-Clipper-shorts
+      catalog_ref: ${{ inputs.catalog_ref }}
     secrets:
       GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       CATALOG_TOKEN: ${{ secrets.CATALOG_TOKEN }}
