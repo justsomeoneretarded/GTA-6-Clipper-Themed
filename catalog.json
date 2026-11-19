@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-19T14:25:57Z",
+  "generated_at": "2026-11-19T22:34:15Z",
   "scanned": {
     "d66f80f00ab35d8f5532": "2026-11-18T12:29:44Z",
     "4f8b3e763c3765bfbfdf": "2026-11-18T12:29:55Z",
@@ -40,6 +40,24 @@
     "8e8f25bbdafd9861f4d9": "2026-11-19T07:03:24Z",
     "3e9cb39f3bb2258da74a": "2026-11-19T07:03:35Z",
     "b0202a1fe0d65e513533": "2026-11-19T07:03:49Z",
+    "74c148990aacfe78a076": "2026-11-19T14:55:44Z",
+    "d67107a14ca02920093a": "2026-11-19T14:58:02Z",
+    "fb5b2c0f1b2d38d7244c": "2026-11-19T14:58:02Z",
+    "e16f2782e5ac5ce0ae77": "2026-11-19T14:58:02Z",
+    "70df4f7cc4c3a830eed6": "2026-11-19T15:12:13Z",
+    "cc0a65354fbc3d41c98c": "2026-11-19T15:18:43Z",
+    "1f30101bc8ac799fb555": "2026-11-19T15:18:43Z",
+    "3d01e62cfb7b797314e8": "2026-11-19T15:18:43Z",
+    "c7da3a61fac346985c89": "2026-11-19T15:19:23Z",
+    "f885d141f726ebba3ef5": "2026-11-19T15:20:46Z",
+    "e71d77b88532e3189ef8": "2026-11-19T15:22:22Z",
+    "2dbc76fbd50bbc3a9d69": "2026-11-19T15:25:58Z",
+    "cc67e0227fac9f7bbb35": "2026-11-19T15:31:05Z",
+    "1a354f5b2690da0e0c35": "2026-11-19T15:33:03Z",
+    "11685f6dda7e985946dc": "2026-11-19T15:33:03Z",
+    "3432eb43ccf004100051": "2026-11-19T15:33:03Z",
+    "76b449be63961afae961": "2026-11-19T15:33:16Z",
+    "c19de4596658d828fb69": "2026-11-19T15:38:41Z",
     "01dba457d9fd85f0ade9": "2026-11-19T04:33:44Z",
     "bfeb05425a994329bc09": "2026-11-19T04:36:00Z",
     "572d6bd3498019e6510d": "2026-11-19T04:36:15Z",
@@ -47,27 +65,39 @@
     "c118b719e8bdd1406e75": "2026-11-19T04:40:50Z",
     "4abe23aea4142c77ae27": "2026-11-19T04:43:46Z",
     "046f05a5e9e867ee3cf1": "2026-11-19T14:02:47Z",
-    "d67107a14ca02920093a": "2026-11-19T14:03:45Z",
-    "e16f2782e5ac5ce0ae77": "2026-11-19T14:03:45Z",
-    "cc0a65354fbc3d41c98c": "2026-11-19T14:03:45Z",
     "c19441c5764040bb44a8": "2026-11-19T14:03:57Z",
-    "70df4f7cc4c3a830eed6": "2026-11-19T14:05:25Z",
     "9d98ba1d85d3a90269a1": "2026-11-19T14:06:51Z",
-    "c7da3a61fac346985c89": "2026-11-19T14:08:20Z",
-    "1f30101bc8ac799fb555": "2026-11-19T14:08:59Z",
-    "1a354f5b2690da0e0c35": "2026-11-19T14:08:59Z",
-    "11685f6dda7e985946dc": "2026-11-19T14:08:59Z",
-    "f885d141f726ebba3ef5": "2026-11-19T14:09:09Z",
     "820a28b33a970df1bec7": "2026-11-19T14:10:57Z",
     "10e7b4c20f2d8bb63aa3": "2026-11-19T14:12:36Z",
     "2cd689df3f0c0c62e2e5": "2026-11-19T14:14:11Z",
     "5a91d3c711d9444f3d06": "2026-11-19T14:16:00Z",
-    "3432eb43ccf004100051": "2026-11-19T14:16:33Z",
     "1cd31b604a36364505ad": "2026-11-19T14:16:33Z",
     "027d831562266a849215": "2026-11-19T14:16:33Z",
     "e477932fb6c8a2d64dfb": "2026-11-19T14:16:53Z",
     "ec3e8372b6d6f2cbe600": "2026-11-19T14:20:07Z",
-    "52e7c09b69ef38a079d7": "2026-11-19T14:20:39Z"
+    "52e7c09b69ef38a079d7": "2026-11-19T14:20:39Z",
+    "ff9795888fa07212230c": "2026-11-19T22:12:22Z",
+    "cc87fe369c869c18f105": "2026-11-19T22:12:54Z",
+    "94748091e4220cbf7952": "2026-11-19T22:12:54Z",
+    "3e713494a2944b58795b": "2026-11-19T22:12:54Z",
+    "fd10c969a8ce1f38eef6": "2026-11-19T22:13:03Z",
+    "2c34722d60ce76ebc830": "2026-11-19T22:15:42Z",
+    "c471b5a5338f67bffcfa": "2026-11-19T22:15:54Z",
+    "87006be291a440e9f04e": "2026-11-19T22:17:52Z",
+    "60f3f3b9027cb73dcd57": "2026-11-19T22:19:28Z",
+    "613f7691188e48436dd6": "2026-11-19T22:20:03Z",
+    "a78c22e7a6674493b59a": "2026-11-19T22:20:03Z",
+    "f899c818e036cabbe56a": "2026-11-19T22:20:03Z",
+    "2d758a8b9a9aa7ca2e0b": "2026-11-19T22:20:42Z",
+    "04b3a4b87929c286a77b": "2026-11-19T22:22:19Z",
+    "c17696af1f93c580a409": "2026-11-19T22:24:47Z",
+    "37fc5bd7f97afbf33f4f": "2026-11-19T22:25:42Z",
+    "9494ffbf8ad226da1cd5": "2026-11-19T22:27:21Z",
+    "d5fd81d638cbdeb21316": "2026-11-19T22:29:28Z",
+    "b755c621d77ba7849a68": "2026-11-19T22:30:00Z",
+    "24bce952b801f0ca8079": "2026-11-19T22:30:00Z",
+    "f2c1ee64ffd2fafa6381": "2026-11-19T22:30:00Z",
+    "074981b8bcfca3146c55": "2026-11-19T22:30:10Z"
   },
   "sources": {
     "youtube:-UuHA1h-Cf8": {
@@ -77,7 +107,7 @@
       "title": "Can a TANK Survive a 6-STAR Police Chase in GTA 6? | PS5 Pro Gameplay",
       "creator": "GameV",
       "duration": 572.0,
-      "views": 475619,
+      "views": 789362,
       "published": "2026-11-18T21:05:14Z",
       "rights": "unspecified",
       "anchors": [],
@@ -92,8 +122,38 @@
       "title": "GTA 6 - Free Roam Exploring - NEXT GEN Ray Tracing Looks INCREDIBLE! (4K Open World)",
       "creator": "DubStepZz",
       "duration": 2606.0,
-      "views": 126308,
+      "views": 637527,
       "published": "2026-11-18T22:30:28Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
+    "youtube:CK6XFkFSoyc": {
+      "key": "youtube:CK6XFkFSoyc",
+      "url": "https://www.youtube.com/watch?v=CK6XFkFSoyc",
+      "platform": "youtube",
+      "title": "GTA 6 VS GTA 4 (CAR PHYSICS COMPARISON)",
+      "creator": "Onespot Gaming",
+      "duration": 679.0,
+      "views": 646215,
+      "published": "2026-11-18T21:03:02Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
+    "youtube:CukTYtF72KY": {
+      "key": "youtube:CukTYtF72KY",
+      "url": "https://www.youtube.com/watch?v=CukTYtF72KY",
+      "platform": "youtube",
+      "title": "GTA 6 Walkthrough Gameplay Part 2 - JASON DUVAL (GRAND THEFT AUTO 6)",
+      "creator": "theRadBrad",
+      "duration": 3741.0,
+      "views": 711145,
+      "published": "2026-11-19T15:00:35Z",
       "rights": "unspecified",
       "anchors": [],
       "parent": "",
@@ -122,7 +182,7 @@
       "title": "🔴 LIVE! - GTA 6 EARLY ACCESS with TYPICAL GAMER! (PS5 PRO)",
       "creator": "Typical Gamer",
       "duration": 35745.0,
-      "views": 2568164,
+      "views": 2691994,
       "published": "2026-11-19T01:16:55Z",
       "rights": "unspecified",
       "anchors": [],
@@ -160,6 +220,21 @@
       "parent_offset": null,
       "recording": false
     },
+    "youtube:TFmtM1kRWp4": {
+      "key": "youtube:TFmtM1kRWp4",
+      "url": "https://www.youtube.com/watch?v=TFmtM1kRWp4",
+      "platform": "youtube",
+      "title": "🔴GTA 6 IS FINALLY HERE | LIVE GTA VI INDIA",
+      "creator": "Xyaa",
+      "duration": 21162.0,
+      "views": 696241,
+      "published": "2026-11-19T06:02:28Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
     "youtube:Ui5eAdG6a-I": {
       "key": "youtube:Ui5eAdG6a-I",
       "url": "https://www.youtube.com/watch?v=Ui5eAdG6a-I",
@@ -175,6 +250,21 @@
       "parent_offset": null,
       "recording": false
     },
+    "youtube:W8kQBDyRd9k": {
+      "key": "youtube:W8kQBDyRd9k",
+      "url": "https://www.youtube.com/watch?v=W8kQBDyRd9k",
+      "platform": "youtube",
+      "title": "Full Playthrough GTA 6! 🔥 IT'S GETTING SPICY!",
+      "creator": "Fresh Spawns",
+      "duration": 14289.0,
+      "views": 277778,
+      "published": "2026-11-19T10:29:22Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
     "youtube:Wd-vKw3XYP0": {
       "key": "youtube:Wd-vKw3XYP0",
       "url": "https://www.youtube.com/watch?v=Wd-vKw3XYP0",
@@ -182,7 +272,7 @@
       "title": "Grand Theft Auto 6 Gameplay and Impressions...",
       "creator": "jackfrags",
       "duration": 2218.0,
-      "views": 1299125,
+      "views": 2356613,
       "published": "2026-11-18T22:04:15Z",
       "rights": "unspecified",
       "anchors": [],
@@ -214,6 +304,81 @@
       "duration": 13661.0,
       "views": 1648744,
       "published": "2026-11-19T03:03:19Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
+    "youtube:fJUt1YegOB0": {
+      "key": "youtube:fJUt1YegOB0",
+      "url": "https://www.youtube.com/watch?v=fJUt1YegOB0",
+      "platform": "youtube",
+      "title": "What to expect from GTA 6 as ‘masterpiece’ game released around the world",
+      "creator": "ITV News",
+      "duration": 296.0,
+      "views": 42308,
+      "published": "2026-11-18T23:00:57Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
+    "youtube:gZf-qhJt_SM": {
+      "key": "youtube:gZf-qhJt_SM",
+      "url": "https://www.youtube.com/watch?v=gZf-qhJt_SM",
+      "platform": "youtube",
+      "title": "GTA 6 Is Already a DISASTER...",
+      "creator": "Jaac",
+      "duration": 501.0,
+      "views": 133604,
+      "published": "2026-11-18T22:37:02Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
+    "youtube:oyHFwPNd_c4": {
+      "key": "youtube:oyHFwPNd_c4",
+      "url": "https://www.youtube.com/watch?v=oyHFwPNd_c4",
+      "platform": "youtube",
+      "title": "So I Played GTA 6..",
+      "creator": "Asmongold TV  ",
+      "duration": 32523.0,
+      "views": 2559983,
+      "published": "2026-11-19T05:07:12Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
+    "youtube:wpKUZWI0Ch4": {
+      "key": "youtube:wpKUZWI0Ch4",
+      "url": "https://www.youtube.com/watch?v=wpKUZWI0Ch4",
+      "platform": "youtube",
+      "title": "🔴 GTA VI U.S. Launch LIVE on PS5 Pro | Story Mode playthrough",
+      "creator": "SteveTheGamer55",
+      "duration": 23355.0,
+      "views": 273877,
+      "published": "2026-11-19T04:06:16Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
+    "youtube:xbxObXdx9fU": {
+      "key": "youtube:xbxObXdx9fU",
+      "url": "https://www.youtube.com/watch?v=xbxObXdx9fU",
+      "platform": "youtube",
+      "title": "GTA 6 FREE ROAM GAMEPLAY! (Beach Rampage, Military Base & More!)",
+      "creator": "XpertThief",
+      "duration": 6087.0,
+      "views": 203574,
+      "published": "2026-11-19T01:48:01Z",
       "rights": "unspecified",
       "anchors": [],
       "parent": "",
@@ -253,6 +418,21 @@
       "fingerprint": "cb135c6c77e8e1c0.e338e9a90db0f8d4.c3c9d8514c62eaca"
     },
     {
+      "id": "3059ee53ed29652c731e",
+      "span": {
+        "source": "youtube:fJUt1YegOB0",
+        "start": 97.75,
+        "end": 129.1
+      },
+      "theme": "discovery",
+      "hook": "A reporter recounts fans queuing overnight in 2013, contrasting it with the massive scale of GTA VI.",
+      "setup": "Interviewees discuss the massive scale of the upcoming GTA game, followed by archival footage of launch queues.",
+      "payoff": "On-screen text and voiceover reveal the massive 212 GB download size and 200 hours for full completion, followed by official GTA VI trailer clips.",
+      "evidence": "Footage shows store lines labeled 2013 transitioning to narration about the new game size and GTA VI trailer footage starting at 45.2s.",
+      "score": 85.0,
+      "fingerprint": "79b8b8b171707271.9185834b4a4f1a13.45050105d5c84161"
+    },
+    {
       "id": "10acd9bceafe92fe34a7",
       "span": {
         "source": "youtube:xgZCLTZbvs8",
@@ -285,6 +465,66 @@
   ],
   "pending": [
     {
+      "id": "aabd86fcbee6e24ab175",
+      "span": {
+        "source": "youtube:W8kQBDyRd9k",
+        "start": 11511.27,
+        "end": 11531.27
+      },
+      "theme": "party",
+      "hook": "A vibrant night street party in Vice City with dancing crowds and neon lights.",
+      "setup": "Characters are dancing on top of parked cars while music plays and red flares illuminate the scene.",
+      "payoff": "A purple sports car revs its engine and drifts through the smoke-filled crowd as the camera pans overhead.",
+      "evidence": "Pedestrians and dancers surround a purple convertible under pink and blue lighting.",
+      "score": 85.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "d6db2b6c382088ffefaa",
+      "span": {
+        "source": "youtube:xbxObXdx9fU",
+        "start": 4756.61,
+        "end": 4777.61
+      },
+      "theme": "chase",
+      "hook": "Truck rolls over after a reckless turn",
+      "setup": "The player drives a red pickup truck off the road into grass.",
+      "payoff": "The truck flips completely upside down on its roof before landing back on its wheels.",
+      "evidence": "Truck flips over into the grass at 78:52",
+      "score": 85.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "7b179680406b9e039052",
+      "span": {
+        "source": "youtube:CukTYtF72KY",
+        "start": 2229.91,
+        "end": 2286.91
+      },
+      "theme": "other",
+      "hook": "Manual labor in GTA VI? Jason turns home renovation into a minigame.",
+      "setup": "Jason picks up a DeVice power drill and begins screwing drywall panels into an interior frame.",
+      "payoff": "He completes hanging the drywall, sands the seams down, and paints the wall with a roller.",
+      "evidence": "Manual labor! Gamer of the year, baby.",
+      "score": 82.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "07c4cadd9d5404453598",
+      "span": {
+        "source": "youtube:W8kQBDyRd9k",
+        "start": 11743.27,
+        "end": 11771.27
+      },
+      "theme": "driving",
+      "hook": "Making a getaway in a heavily vandalized and spray-painted supercar.",
+      "setup": "The characters jump back into the customized vehicle with 'ASS' and other graffiti sprawled across its hood.",
+      "payoff": "The car tears away down the night-lit Miami-inspired streets under bridges and past streetlights.",
+      "evidence": "Pink convertible driving down city roads at night with visible graffiti on the body.",
+      "score": 82.0,
+      "fingerprint": ""
+    },
+    {
       "id": "c95888f51be423c4d27a",
       "span": {
         "source": "youtube:GBFIOJkK-6c",
@@ -296,6 +536,66 @@
       "setup": "The player drives through agricultural country while discussing character interactions on the phone.",
       "payoff": "The car veers off the road and drives through tall sugarcane fields, narrowly missing large industrial vehicles.",
       "evidence": "Car swerving off the paved road into dense sugarcane fields.",
+      "score": 80.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "43b6c15114b0b6871691",
+      "span": {
+        "source": "youtube:oyHFwPNd_c4",
+        "start": 20951.806,
+        "end": 20974.806
+      },
+      "theme": "mission",
+      "hook": "Attempting a precision water landing alongside a boat.",
+      "setup": "Lucia instructs the pilot to stay in the air and get close to a boat in the river.",
+      "payoff": "The seaplane skims across the water right beside the target boat successfully.",
+      "evidence": "The seaplane lands on the water right next to a boat while dialogue instructs to fly alongside the boat.",
+      "score": 80.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "11c3989a9f493b6ecfad",
+      "span": {
+        "source": "youtube:CukTYtF72KY",
+        "start": 2466.91,
+        "end": 2508.91
+      },
+      "theme": "driving",
+      "hook": "Jason heads out on a drive in his Vapid utility vehicle.",
+      "setup": "Jason changes clothes into a t-shirt and jeans, walks outside, and gets into his black Vapid pickup truck.",
+      "payoff": "He drives down the dirt road of Key Lento while listening to local radio ads and ambient chatter.",
+      "evidence": "Let's time it so we don't like listening to the radio so bad.",
+      "score": 80.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "ecde3764f3b9940c6408",
+      "span": {
+        "source": "youtube:TFmtM1kRWp4",
+        "start": 11853.4,
+        "end": 11878.0
+      },
+      "theme": "driving",
+      "hook": "Backing into a truck and speeding off",
+      "setup": "Jason gets into Brian's truck to head to the liquor store.",
+      "payoff": "Jason reverses roughly into a parked car and hits a concrete wall before driving away.",
+      "evidence": "The truck backs up and smashes into the wall and a parked car while the streamer reacts.",
+      "score": 80.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "a49ca3cf740b90c0c41e",
+      "span": {
+        "source": "youtube:W8kQBDyRd9k",
+        "start": 11558.27,
+        "end": 11579.27
+      },
+      "theme": "chase",
+      "hook": "A character starts vandalizing a sports car with spray paint during an active street hangout.",
+      "setup": "A female character approaches the side of a pink convertible to customize its paint job.",
+      "payoff": "She sprays graffiti on the vehicle while livestream comments scroll on the screen and other partygoers cheer.",
+      "evidence": "Character crouches by the car door applying spray paint with overlay chat visible.",
       "score": 80.0,
       "fingerprint": ""
     },
@@ -345,6 +645,36 @@
       "fingerprint": ""
     },
     {
+      "id": "a31b76509e6d7e6a00c4",
+      "span": {
+        "source": "youtube:oyHFwPNd_c4",
+        "start": 395.0,
+        "end": 415.0
+      },
+      "theme": "podcast",
+      "hook": "What guys?",
+      "setup": "Lucia confronts Jason on the couch about the money he brought home.",
+      "payoff": "Jason tells Lucia that life is not for her and refuses to let her join.",
+      "evidence": "Lu, this life's not for you. It's not for anybody.",
+      "score": 78.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "b8f6c7d6be613f41ffcc",
+      "span": {
+        "source": "youtube:CukTYtF72KY",
+        "start": 2151.91,
+        "end": 2176.91
+      },
+      "theme": "stunt",
+      "hook": "Can Jason hit a tricky basketball shot underneath his house?",
+      "setup": "Jason picks up a basketball under his stilted house and aims at the hoop mounted on the second-story exterior wall.",
+      "payoff": "After a few near-misses, he sinks a swish and scores.",
+      "evidence": "Swish! All right, we're good. We're chilling.",
+      "score": 78.0,
+      "fingerprint": ""
+    },
+    {
       "id": "238ec3cee36a9ab11e58",
       "span": {
         "source": "youtube:Mw4MrVRO_co",
@@ -375,21 +705,6 @@
       "fingerprint": ""
     },
     {
-      "id": "635138ad747c900f9ec5",
-      "span": {
-        "source": "youtube:Ui5eAdG6a-I",
-        "start": 310.64,
-        "end": 366.64
-      },
-      "theme": "chase",
-      "hook": "Fighter jets engage the stolen private jet.",
-      "setup": "Military fighter jets appear alongside the private jet, demanding an immediate landing.",
-      "payoff": "The fighter jets damage the private jet's engines, causing thick black smoke to trail behind.",
-      "evidence": "Pilot: Land the aircraft. We will engage.",
-      "score": 75.0,
-      "fingerprint": ""
-    },
-    {
       "id": "1e587257819348fcb881",
       "span": {
         "source": "youtube:GBFIOJkK-6c",
@@ -401,6 +716,36 @@
       "setup": "The player opens the map to locate a destination and begins driving a customized Sultan through rural county roads.",
       "payoff": "The vehicle navigates twisting rural roads past agricultural fields and train crossings while commentary discusses buying vehicles in-game.",
       "evidence": "Map interface showing Leonard County and the player driving the modified Sultan sedan.",
+      "score": 75.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "98b6b707cf5835e06359",
+      "span": {
+        "source": "youtube:oyHFwPNd_c4",
+        "start": 21075.806,
+        "end": 21103.206
+      },
+      "theme": "mission",
+      "hook": "Inspecting magazines inside the safehouse during a tense moment.",
+      "setup": "Jason enters a room and examines a magazine titled Off The Hook Reel Talk.",
+      "payoff": "Jason puts the magazine down and moves to hide contraband in the washing machine.",
+      "evidence": "Jason picks up an Off The Hook magazine and examines it while an examine prompt is visible.",
+      "score": 75.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "dc52cd7211ce8b701523",
+      "span": {
+        "source": "youtube:wpKUZWI0Ch4",
+        "start": 19423.05,
+        "end": 19438.05
+      },
+      "theme": "mission",
+      "hook": "Jason arrives at Brian's Marina.",
+      "setup": "Jason exits his vehicle and walks inside the marina warehouse.",
+      "payoff": "He explores the interior space filled with boats and maintenance equipment.",
+      "evidence": "Brian's Marina",
       "score": 75.0,
       "fingerprint": ""
     },
@@ -450,17 +795,17 @@
       "fingerprint": ""
     },
     {
-      "id": "2d3afca442822aa1a362",
+      "id": "86062a6293d8b5c8cb50",
       "span": {
-        "source": "youtube:Ui5eAdG6a-I",
-        "start": 18.64,
-        "end": 28.64
+        "source": "youtube:wpKUZWI0Ch4",
+        "start": 19169.05,
+        "end": 19183.05
       },
-      "theme": "chase",
-      "hook": "Security confronts a player at the airport gates.",
-      "setup": "The player drives a pickup truck toward the airport gate while security guards shout final warnings.",
-      "payoff": "The truck crashes through the barrier into the airport tarmac as security opens fire.",
-      "evidence": "Security Guard: Final warning, leave now! Don't make us force you.",
+      "theme": "mission",
+      "hook": "Jason opens the BuckMe app on his phone.",
+      "setup": "Jason sits in his yellow truck and checks his smartphone.",
+      "payoff": "The app shows zero balance in checking and prompts him to find an ATM.",
+      "evidence": "buckme checking account $0",
       "score": 65.0,
       "fingerprint": ""
     },
@@ -478,6 +823,21 @@
       "evidence": "The player runs past Postal Freight and Wayfarer Logistics hangars to enter a private jet.",
       "score": 60.0,
       "fingerprint": ""
+    },
+    {
+      "id": "23ef20f76187feeaf01d",
+      "span": {
+        "source": "youtube:oyHFwPNd_c4",
+        "start": 20800.806,
+        "end": 20815.206
+      },
+      "theme": "discovery",
+      "hook": "Browsing the map and waypoint locations in Vice City.",
+      "setup": "The player opens the map menu to examine Watson Bay and Grassrivers locations.",
+      "payoff": "The map interface closes and returns to the pilot flying over river terrain.",
+      "evidence": "Map interface showing Jason and Lucia with Watson Bay and Vice City landmarks.",
+      "score": 60.0,
+      "fingerprint": ""
     }
   ],
   "sequences": [
@@ -493,6 +853,26 @@
     },
     {
       "span": {
+        "source": "youtube:oyHFwPNd_c4",
+        "start": 80.0,
+        "end": 345.0
+      },
+      "theme": "mission",
+      "story": "A chronological edit following Jason and Lucia from their police car encounter, argument over driving, subsequent crime spree, and getting back together in Vice City.",
+      "score": 92.0
+    },
+    {
+      "span": {
+        "source": "youtube:W8kQBDyRd9k",
+        "start": 11511.27,
+        "end": 11771.27
+      },
+      "theme": "party",
+      "story": "A complete sequence following characters at a nighttime street gathering in Vice City where they dance on vehicles, get into altercations, vandalize a car with spray paint and baseball bats, and finally escape through the city streets.",
+      "score": 92.0
+    },
+    {
+      "span": {
         "source": "youtube:-UuHA1h-Cf8",
         "start": 36.24,
         "end": 427.24
@@ -503,6 +883,26 @@
     },
     {
       "span": {
+        "source": "youtube:HzzzoomJ-Os",
+        "start": 12450.4,
+        "end": 12744.4
+      },
+      "theme": "mission",
+      "story": "A continuous sequence of open-world exploration and mission driving, starting with the auto-drive feature discovery, navigating through traffic and bridges, experiencing a severe collision, and arriving at the warehouse to talk to NPCs.",
+      "score": 92.0
+    },
+    {
+      "span": {
+        "source": "youtube:xbxObXdx9fU",
+        "start": 4756.61,
+        "end": 5020.61
+      },
+      "theme": "chase",
+      "story": "The player drives around Vice City at night, crashes into pedestrians and a tiki bar, interacts with NPCs, and escalates into a massive shootout with police ending in a 'wasted' screen.",
+      "score": 90.0
+    },
+    {
+      "span": {
         "source": "youtube:Wd-vKw3XYP0",
         "start": 659.57,
         "end": 919.57
@@ -510,6 +910,26 @@
       "theme": "discovery",
       "story": "The player explores the docks, interacts with wildlife, strolls through downtown Vice City at sunset, visits clothing stores, hangs out in a club lounge, and ends up in an escalating police chase after stealing a tour bus.",
       "score": 90.0
+    },
+    {
+      "span": {
+        "source": "youtube:oyHFwPNd_c4",
+        "start": 20782.806,
+        "end": 21083.206
+      },
+      "theme": "mission",
+      "story": "The player undertakes a seaplane drop mission in the Everglades-like delta, handles tricky water landings, inspects the map, and returns to the safehouse to deal with a probation officer encounter.",
+      "score": 88.0
+    },
+    {
+      "span": {
+        "source": "youtube:CukTYtF72KY",
+        "start": 2122.91,
+        "end": 2382.91
+      },
+      "theme": "discovery",
+      "story": "Jason explores his safehouse property in Key Lento, checks his mailbox for cash, plays a mini-basketball game under the porch, repairs his floorboards to deposit money into a secret stash box, hangs drywall, and grabs a protein shake from the fridge.",
+      "score": 88.0
     },
     {
       "span": {
@@ -563,6 +983,36 @@
     },
     {
       "span": {
+        "source": "youtube:CK6XFkFSoyc",
+        "start": 63.08,
+        "end": 339.08
+      },
+      "theme": "discovery",
+      "story": "A structured physics comparison demonstrating tyre shooting, water splashes, vehicle handling feedback, braking distances, and directional force.",
+      "score": 88.0
+    },
+    {
+      "span": {
+        "source": "youtube:gZf-qhJt_SM",
+        "start": 21.72,
+        "end": 289.72
+      },
+      "theme": "podcast",
+      "story": "The video breaks down the massive hype surrounding GTA VI's launch, followed by immediate negative social media reactions, viral gameplay complaints, and glitches discovered within hours of release.",
+      "score": 85.0
+    },
+    {
+      "span": {
+        "source": "youtube:CukTYtF72KY",
+        "start": 181.0,
+        "end": 471.0
+      },
+      "theme": "mission",
+      "story": "Jason stashes his money under the floorboards, steps outside to take in the views on his balcony, hops on a Dinka 72 Enduro motorcycle, takes phone calls from contacts about overdue rent, and navigates through the neighborhood to check mini-marts.",
+      "score": 82.0
+    },
+    {
+      "span": {
         "source": "youtube:8zpkGW2DGCo",
         "start": 204.0,
         "end": 482.0
@@ -570,6 +1020,16 @@
       "theme": "driving",
       "story": "The player exits a safehouse, gets into an SUV, drives through suburban streets to a gas station convenience store, buys supplies and a beverage, and ends up in a street brawl with hostile locals.",
       "score": 82.0
+    },
+    {
+      "span": {
+        "source": "youtube:wpKUZWI0Ch4",
+        "start": 19186.05,
+        "end": 19456.05
+      },
+      "theme": "driving",
+      "story": "Jason drives his Vapid truck around town, uses the BuckMe mobile banking app to deposit money at an ATM, and eventually navigates to Brian's Marina to continue his tasks.",
+      "score": 80.0
     },
     {
       "span": {
