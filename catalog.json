@@ -1,0 +1,193 @@
+{
+  "version": 1,
+  "generated_at": "2026-11-19T04:44:52Z",
+  "scanned": {
+    "d66f80f00ab35d8f5532": "2026-11-18T12:29:44Z",
+    "4f8b3e763c3765bfbfdf": "2026-11-18T12:29:55Z",
+    "fcda21f1e35b76255518": "2026-11-18T12:30:23Z",
+    "bed55f906e44109ee092": "2026-11-18T12:30:52Z",
+    "62bf1ba046d8a0d02fc2": "2026-11-18T12:31:54Z",
+    "11b30cb83112f4b81468": "2026-11-18T15:13:31Z",
+    "7fe153019fb3f001fe77": "2026-11-18T15:14:33Z",
+    "3f9963268f73d6dd1612": "2026-11-18T15:18:33Z",
+    "fe888526818fcb645030": "2026-11-18T15:19:09Z",
+    "74d77dbf09998b2e211a": "2026-11-18T15:19:24Z",
+    "f76549f8abe92e164f33": "2026-11-18T19:46:23Z",
+    "d076ebd69cef9d295b7e": "2026-11-18T19:46:41Z",
+    "48bc3c4ccaa55173531b": "2026-11-18T19:46:55Z",
+    "fb456c815b6fa78c05f1": "2026-11-18T19:48:38Z",
+    "e687d0e79270f21c0239": "2026-11-18T19:48:55Z",
+    "18f9256b97cea072a4a0": "2026-11-18T19:49:23Z",
+    "3bb19cf14ef7e8715636": "2026-11-18T19:50:50Z",
+    "1abbb4f522ca232c223d": "2026-11-18T19:51:36Z",
+    "bbf69aea0ed07d1a649c": "2026-11-18T19:52:30Z",
+    "6431904c4ae2c68aa8fc": "2026-11-18T19:54:20Z",
+    "1512d4da489607104443": "2026-11-18T19:55:30Z",
+    "44ee5ab5fd89073a6464": "2026-11-18T19:56:11Z",
+    "4ca75557d903d6e20047": "2026-11-19T04:32:06Z",
+    "01dba457d9fd85f0ade9": "2026-11-19T04:33:44Z",
+    "bfeb05425a994329bc09": "2026-11-19T04:36:00Z",
+    "572d6bd3498019e6510d": "2026-11-19T04:36:15Z",
+    "ca0c719b4f79f3b46158": "2026-11-19T04:37:52Z",
+    "3821841ccd391063a16d": "2026-11-19T04:39:06Z",
+    "c118b719e8bdd1406e75": "2026-11-19T04:40:50Z",
+    "4abe23aea4142c77ae27": "2026-11-19T04:43:46Z"
+  },
+  "sources": {
+    "twitch-clip:BeautifulScaryFungusFUNgineer-vOKAsBcSFLz0POLZ": {
+      "key": "twitch-clip:BeautifulScaryFungusFUNgineer-vOKAsBcSFLz0POLZ",
+      "url": "https://clips.twitch.tv/BeautifulScaryFungusFUNgineer-vOKAsBcSFLz0POLZ",
+      "platform": "twitch-clip",
+      "title": "tgg tests how he can grab drinks from the fridge",
+      "creator": "TGG_gta",
+      "duration": 32.0,
+      "views": 70,
+      "published": "2026-11-18T11:53:45Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
+    "twitch-clip:SquareObeseEagleFutureMan-5N5CHEA_vyiZJgrS": {
+      "key": "twitch-clip:SquareObeseEagleFutureMan-5N5CHEA_vyiZJgrS",
+      "url": "https://clips.twitch.tv/SquareObeseEagleFutureMan-5N5CHEA_vyiZJgrS",
+      "platform": "twitch-clip",
+      "title": "GTA 6 - 100% Walkthrough | Livestream [No Commentary]",
+      "creator": "GTASeriesVideos",
+      "duration": 30.0,
+      "views": 1,
+      "published": "2026-11-18T12:16:13Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
+    "youtube:3PiR0G3rVw8": {
+      "key": "youtube:3PiR0G3rVw8",
+      "url": "https://www.youtube.com/watch?v=3PiR0G3rVw8",
+      "platform": "youtube",
+      "title": "GTA 6 PS5 Pro Gameplay - 15 Minutes of The First Mission",
+      "creator": "IGN",
+      "duration": 890.0,
+      "views": 1322464,
+      "published": "2026-11-18T11:20:31Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
+    "youtube:jwwDSn-HW0o": {
+      "key": "youtube:jwwDSn-HW0o",
+      "url": "https://www.youtube.com/watch?v=jwwDSn-HW0o",
+      "platform": "youtube",
+      "title": "GTA 6 Just Got a MASSIVE Last Minute Info Dump...",
+      "creator": "Hazard",
+      "duration": 702.0,
+      "views": 1245416,
+      "published": "2026-11-17T21:15:28Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
+    "youtube:vVVIWEGciKk": {
+      "key": "youtube:vVVIWEGciKk",
+      "url": "https://www.youtube.com/watch?v=vVVIWEGciKk",
+      "platform": "youtube",
+      "title": "GTA 6 - Before You Buy",
+      "creator": "gameranx",
+      "duration": 1542.0,
+      "views": 937228,
+      "published": "2026-11-18T15:47:51Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    }
+  },
+  "moments": [
+    {
+      "id": "a178a3374c26b5f44ab5",
+      "span": {
+        "source": "twitch-clip:BeautifulScaryFungusFUNgineer-vOKAsBcSFLz0POLZ",
+        "start": 1.0,
+        "end": 31.33
+      },
+      "theme": "discovery",
+      "hook": "Should we test it? Should we see if he actually grabs something properly from the fridge?",
+      "setup": "The player opens the fridge, selects Raine Water, and drinks it.",
+      "payoff": "The player buffs stamina and focus, then throws the bottle into the bin.",
+      "evidence": "The player opens the fridge, picks Raine Water, drinks it while stats update on screen, and throws the bottle into the bin.",
+      "score": 85.5,
+      "fingerprint": "7666262eeef2f666.9c1c441630379696.ce0f2f3fbb1b9b56"
+    },
+    {
+      "id": "2f21e476e78b233a7d9e",
+      "span": {
+        "source": "youtube:3PiR0G3rVw8",
+        "start": 314.1,
+        "end": 325.1
+      },
+      "theme": "discovery",
+      "hook": "Player spots a suspicious deal unfolding across the swamp.",
+      "setup": "The player and companion arrive by boat near a wooden dock with a plane and figures.",
+      "payoff": "The player equips binoculars and scopes in on the meeting on the dock.",
+      "evidence": "Binoculars are selected from the weapon wheel to zoom in on the characters on the dock.",
+      "score": 85.0,
+      "fingerprint": "0382884b4a2713d3.0786089390966723.8f07131397972723"
+    },
+    {
+      "id": "22bb3522f471add80a82",
+      "span": {
+        "source": "twitch-clip:SquareObeseEagleFutureMan-5N5CHEA_vyiZJgrS",
+        "start": 0.0,
+        "end": 29.5
+      },
+      "theme": "mission",
+      "hook": "Character approaches a yellow lift outside a police impound.",
+      "setup": "Player controls a character in camo shorts and a white tank top with a rifle slung over their shoulder, operating a lift against a wall labeled 'POLICE IMPOUND 786-555-0121'.",
+      "payoff": "The lift rises to the roof level, allowing the character to step off onto the rooftop and walk forward as an objective prompt appears: 'Move quietly and stay out of sight to avoid detection.'",
+      "evidence": "Character operates lift controls, elevates to the roof level, steps onto the rooftop, and receives stealth objective prompt.",
+      "score": 82.25,
+      "fingerprint": "612505072332f393.c90102264647d060.699edaaba9d45564"
+    }
+  ],
+  "pending": [],
+  "sequences": [
+    {
+      "span": {
+        "source": "youtube:vVVIWEGciKk",
+        "start": 941.96,
+        "end": 1221.26
+      },
+      "theme": "discovery",
+      "story": "A comprehensive tour of Grand Theft Auto VI's open world, showcasing swamp aviation, urban exploration, relationship mechanics, and intense rooftop shootouts.",
+      "score": 94.0
+    },
+    {
+      "span": {
+        "source": "youtube:3PiR0G3rVw8",
+        "start": 202.1,
+        "end": 482.1
+      },
+      "theme": "mission",
+      "story": "The player navigates a boat through tropical waters, approaches an island camp, uses binoculars to scope out a seaplane deal, and infiltrates the camp grounds.",
+      "score": 88.0
+    },
+    {
+      "span": {
+        "source": "youtube:jwwDSn-HW0o",
+        "start": 66.84,
+        "end": 388.84
+      },
+      "theme": "podcast",
+      "story": "The segment details Rockstar researcher Gregory Johnson's perilous field research in Miami, interviewing former cartel smugglers tied to Pablo Escobar, and how those real experiences shaped the immersive criminal underworld of Grand Theft Auto.",
+      "score": 87.0
+    }
+  ]
+}
