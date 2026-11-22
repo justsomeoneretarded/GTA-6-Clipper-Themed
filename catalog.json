@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-22T02:17:42Z",
+  "generated_at": "2026-11-22T17:35:04Z",
   "scanned": {
     "d66f80f00ab35d8f5532": "2026-11-18T12:29:44Z",
     "4f8b3e763c3765bfbfdf": "2026-11-18T12:29:55Z",
@@ -158,6 +158,22 @@
     "876133c3836eb6a1c044": "2026-11-21T22:27:38Z",
     "3b2bc90730f17e874bd5": "2026-11-21T22:28:42Z",
     "cb5aa4b344712662d894": "2026-11-21T22:28:52Z",
+    "39eff6d532f865e9d89d": "2026-11-22T13:50:05Z",
+    "942adba2e4b61f706884": "2026-11-22T13:50:48Z",
+    "0d1e502bc46f45db9969": "2026-11-22T13:50:48Z",
+    "4d9541cc80e11f4268bf": "2026-11-22T13:50:48Z",
+    "58c520b4c19514713adc": "2026-11-22T13:50:53Z",
+    "ec6a974ea9d255039350": "2026-11-22T13:52:05Z",
+    "655177218874d07ab94c": "2026-11-22T13:52:11Z",
+    "43facc4b5d897549778f": "2026-11-22T13:54:19Z",
+    "9ea1569c83804c262133": "2026-11-22T13:54:35Z",
+    "c07d47b6744308b261f4": "2026-11-22T13:54:49Z",
+    "437d20f73f393084a2c2": "2026-11-22T13:55:57Z",
+    "24d905d02a6ef2d521be": "2026-11-22T13:56:21Z",
+    "c087948e7a13c05c9434": "2026-11-22T13:56:32Z",
+    "f061cb63ca6f516437ea": "2026-11-22T13:56:36Z",
+    "dbe7c9909761bcf3428f": "2026-11-22T13:56:50Z",
+    "1823d140344fde230af8": "2026-11-22T13:57:03Z",
     "01dba457d9fd85f0ade9": "2026-11-19T04:33:44Z",
     "bfeb05425a994329bc09": "2026-11-19T04:36:00Z",
     "572d6bd3498019e6510d": "2026-11-19T04:36:15Z",
@@ -214,7 +230,6 @@
     "94d20ee601e3bf79859c": "2026-11-20T19:18:24Z",
     "d425bb99899a9e307e52": "2026-11-20T19:19:23Z",
     "2e86ae4fe26a63b14983": "2026-11-20T19:19:40Z",
-    "43facc4b5d897549778f": "2026-11-20T19:21:47Z",
     "ac8320cd8c58e03e275f": "2026-11-20T19:22:04Z",
     "74dda476187d126acf46": "2026-11-20T19:22:30Z",
     "240eabbe53b7202beb97": "2026-11-20T19:27:01Z",
@@ -258,22 +273,34 @@
     "c925abe2075512bd63b9": "2026-11-22T01:59:39Z",
     "204c362ed1f1c30fb0bb": "2026-11-22T01:59:39Z",
     "40ae81994ad8e7838375": "2026-11-22T01:59:39Z",
-    "39eff6d532f865e9d89d": "2026-11-22T01:59:49Z",
     "0f4fc9c16af53d8dd525": "2026-11-22T02:00:52Z",
-    "9ea1569c83804c262133": "2026-11-22T02:01:03Z",
     "d5a34b7994287e72d13b": "2026-11-22T02:02:12Z",
-    "655177218874d07ab94c": "2026-11-22T02:02:21Z",
     "e42bbaaf5bf7cfae6763": "2026-11-22T02:04:27Z",
-    "c07d47b6744308b261f4": "2026-11-22T02:04:37Z",
-    "0d1e502bc46f45db9969": "2026-11-22T02:05:05Z",
     "dc9c53455b56f5a9f5b9": "2026-11-22T02:05:05Z",
-    "f061cb63ca6f516437ea": "2026-11-22T02:05:05Z",
     "5b9c3352ab13e71ecbde": "2026-11-22T02:05:09Z",
     "509bf4e41600bc1b6321": "2026-11-22T02:06:11Z",
-    "dbe7c9909761bcf3428f": "2026-11-22T02:06:21Z",
     "1bf6b2ef8a131d118115": "2026-11-22T02:07:26Z",
     "48f405b6f80a55e88c26": "2026-11-22T02:07:35Z",
-    "f4c09cd600ffdc7c8a61": "2026-11-22T02:09:33Z"
+    "f4c09cd600ffdc7c8a61": "2026-11-22T02:09:33Z",
+    "aa692e437136e20ff22c": "2026-11-22T17:09:35Z",
+    "33a0881e19e73cc3e2af": "2026-11-22T17:10:08Z",
+    "b4ed8663c9dcdd49a80c": "2026-11-22T17:10:08Z",
+    "826f057cb678d168125a": "2026-11-22T17:10:08Z",
+    "0c0e11298e53dd95a78b": "2026-11-22T17:10:20Z",
+    "31145c41d81c06a8df41": "2026-11-22T17:13:04Z",
+    "bd356e242dfdd4dc828f": "2026-11-22T17:13:12Z",
+    "042184d9fad601de395b": "2026-11-22T17:16:03Z",
+    "0285e887805b9aef2e21": "2026-11-22T17:16:13Z",
+    "ae8fdfa75efd82cf0029": "2026-11-22T17:18:54Z",
+    "1a3c5ef1ac2881717502": "2026-11-22T17:19:41Z",
+    "31429f5a9a3bf7755e49": "2026-11-22T17:19:41Z",
+    "ea54d670609557602c94": "2026-11-22T17:19:41Z",
+    "d2078873b1e46b79bfad": "2026-11-22T17:19:55Z",
+    "04772d69ba53e3810c0c": "2026-11-22T17:21:29Z",
+    "a732fe42a646445efad0": "2026-11-22T17:21:41Z",
+    "0d2178a6d05486cc11c9": "2026-11-22T17:24:43Z",
+    "0b332e32e7e0b309d4e1": "2026-11-22T17:25:29Z",
+    "02a7ac1e0e67f894f0d2": "2026-11-22T17:27:21Z"
   },
   "sources": {
     "twitch-vod:2932866051": {
@@ -283,7 +310,7 @@
       "title": "Yo estuve aquí ❤️ - Grand Theft Auto VI #1",
       "creator": "IlloJuan",
       "duration": 18760.0,
-      "views": 5631664,
+      "views": 5669514,
       "published": "2026-11-18T23:15:54Z",
       "rights": "unspecified",
       "anchors": [],
@@ -298,7 +325,7 @@
       "title": "[DROPS AKTIV] GTA VI RELEASE - 30 TAGE CHARITY STREAM - TAG 18 | !spenden !spendenziel !revolut !scuf",
       "creator": "xRohat",
       "duration": 94322.0,
-      "views": 1272217,
+      "views": 1272600,
       "published": "2026-11-19T09:52:53Z",
       "rights": "unspecified",
       "anchors": [],
@@ -315,6 +342,36 @@
       "duration": 13109.0,
       "views": 70683,
       "published": "2026-11-19T10:12:55Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
+    "twitch-vod:2933599748": {
+      "key": "twitch-vod:2933599748",
+      "url": "https://www.twitch.tv/videos/2933599748",
+      "platform": "twitch-vod",
+      "title": "🔴[DROPS] GTA 6 FULL PLAYTHROUGH🔴",
+      "creator": "ohnePixel",
+      "duration": 38090.0,
+      "views": 2017520,
+      "published": "2026-11-19T11:57:21Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
+    "twitch-vod:2933789253": {
+      "key": "twitch-vod:2933789253",
+      "url": "https://www.twitch.tv/videos/2933789253",
+      "platform": "twitch-vod",
+      "title": "DÍA 2 🦩 INSTALANDO GTA VI 🙀 A GOZARLO FUERTE 💖- Grand Theft Auto VI #2",
+      "creator": "IlloJuan",
+      "duration": 34110.0,
+      "views": 4499041,
+      "published": "2026-11-19T15:40:40Z",
       "rights": "unspecified",
       "anchors": [],
       "parent": "",
@@ -448,7 +505,7 @@
       "title": "Can You Live a Normal Life in GTA 6?",
       "creator": "Arean",
       "duration": 1399.0,
-      "views": 1889481,
+      "views": 2503972,
       "published": "2026-11-20T16:53:43Z",
       "rights": "unspecified",
       "anchors": [],
@@ -463,7 +520,7 @@
       "title": "🌴PLAYING GTA 6 FOR THE FIRST TIME🌴 (DAY 2)",
       "creator": "Kai Cenat Live",
       "duration": 42141.0,
-      "views": 4466236,
+      "views": 4574316,
       "published": "2026-11-19T12:54:38Z",
       "rights": "unspecified",
       "anchors": [],
@@ -568,7 +625,7 @@
       "title": "GTA 6 WTF and Funny Moments! #3",
       "creator": "Zynxize",
       "duration": 1171.0,
-      "views": 2506726,
+      "views": 3210160,
       "published": "2026-11-20T17:00:04Z",
       "rights": "unspecified",
       "anchors": [],
@@ -643,7 +700,7 @@
       "title": "🔴 BEATING GTA 6 RIGHT NOW 100% (FINAL MISSION)",
       "creator": "IShowSpeed",
       "duration": 22061.0,
-      "views": 22540047,
+      "views": 23459422,
       "published": "2026-11-20T12:46:26Z",
       "rights": "unspecified",
       "anchors": [],
@@ -688,8 +745,23 @@
       "title": "If You Steal a Car in GTA 6, I’ll Pay For It!",
       "creator": "MrBeast Gaming",
       "duration": 1273.0,
-      "views": 3917106,
+      "views": 16038241,
       "published": "2026-11-21T20:45:16Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
+    "youtube:S3NEzaumEnQ": {
+      "key": "youtube:S3NEzaumEnQ",
+      "url": "https://www.youtube.com/watch?v=S3NEzaumEnQ",
+      "platform": "youtube",
+      "title": "🗺️EXPLORING GTA 6🗺️",
+      "creator": "Kai Cenat Live",
+      "duration": 24260.0,
+      "views": 1396373,
+      "published": "2026-11-21T23:03:26Z",
       "rights": "unspecified",
       "anchors": [],
       "parent": "",
@@ -718,7 +790,7 @@
       "title": "GTA 6 Gameplay Walkthrough FULL GAME [4K PS5 PRO] No Commentary",
       "creator": "Shirrako",
       "duration": 129958.0,
-      "views": 1808415,
+      "views": 2372985,
       "published": "2026-11-20T19:41:59Z",
       "rights": "unspecified",
       "anchors": [],
@@ -793,8 +865,23 @@
       "title": "🔴LIVE | GTA 6 | DAY 2 | VICE CITY | SUPER CARS/HYPER CARS | #1 GTA 6 DRIVER | #BUNGULATE",
       "creator": "TheBurntPeanut",
       "duration": 57359.0,
-      "views": 3272451,
+      "views": 3372756,
       "published": "2026-11-19T19:13:20Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
+    "youtube:c88810jEKMw": {
+      "key": "youtube:c88810jEKMw",
+      "url": "https://www.youtube.com/watch?v=c88810jEKMw",
+      "platform": "youtube",
+      "title": "GTA 6 - CHAPTER 3 CONTINUES! Playing GTA 6 for the First Time",
+      "creator": "TGG",
+      "duration": 41620.0,
+      "views": 522167,
+      "published": "2026-11-21T03:55:26Z",
       "rights": "unspecified",
       "anchors": [],
       "parent": "",
@@ -853,7 +940,7 @@
       "title": "SMii7Y Plays GTA 6 For The First Time",
       "creator": "SMii7Y",
       "duration": 16761.0,
-      "views": 1937856,
+      "views": 2258395,
       "published": "2026-11-20T01:13:15Z",
       "rights": "unspecified",
       "anchors": [],
@@ -943,7 +1030,7 @@
       "title": "🔴PLAYING GTA 6 RIGHT NOW GET IN HERE!",
       "creator": "IShowSpeed",
       "duration": 85282.0,
-      "views": 37261817,
+      "views": 37897669,
       "published": "2026-11-19T13:04:39Z",
       "rights": "unspecified",
       "anchors": [],
@@ -988,7 +1075,7 @@
       "title": "IT'S FINALLY HERE | Grand Theft Auto 6 - Part 1",
       "creator": "jacksepticeye",
       "duration": 10485.0,
-      "views": 4322488,
+      "views": 4526347,
       "published": "2026-11-18T23:47:15Z",
       "rights": "unspecified",
       "anchors": [],
@@ -1048,7 +1135,7 @@
       "title": "🌴PLAYING GTA 6 FOR THE FIRST TIME🌴 (DAY 2)",
       "creator": "Kai Cenat Live",
       "duration": 41640.0,
-      "views": 2748474,
+      "views": 2781766,
       "published": "2026-11-20T01:04:50Z",
       "rights": "unspecified",
       "anchors": [],
@@ -1058,6 +1145,21 @@
     }
   },
   "moments": [
+    {
+      "id": "fa2e182648d13f4462c2",
+      "span": {
+        "source": "youtube:GMZzFJsf844",
+        "start": 630.67,
+        "end": 642.67
+      },
+      "theme": "discovery",
+      "hook": "A driver reacts in shock to an unexpected passenger inside his car.",
+      "setup": "The driver asks 'The hell is that?' as a cat emerges from the passenger seat.",
+      "payoff": "The cat climbs onto the driver and struggles with him before being thrown out of the car onto the road.",
+      "evidence": "Visual and audio footage from 17.5 to 29.5 seconds shows the character finding a cat in the car, fighting it off, and tossing it outside.",
+      "score": 89.0,
+      "fingerprint": "6818142424022100.40cc9c2cb4322c00.48c00d4808060000"
+    },
     {
       "id": "6e47796d9241802917f9",
       "span": {
@@ -1282,69 +1384,24 @@
       "evidence": "Dialogue discussing real estate, houses sold, and the proposition of setting up Lucia.",
       "score": 79.5,
       "fingerprint": "9c9e1c1e0e0a5e0c.8b8fcfc387869694.0e0e06060f0f0f06"
+    },
+    {
+      "id": "21c466d263c502c0c62b",
+      "span": {
+        "source": "twitch-vod:2933789253",
+        "start": 19754.65,
+        "end": 19768.65
+      },
+      "theme": "discovery",
+      "hook": "The character prepares to sleep in a beach house.",
+      "setup": "The player chooses to rest until morning.",
+      "payoff": "The character wakes up in bed, checks their phone, and looks around.",
+      "evidence": "The player character gets into bed at 14.0 seconds, wakes up and uses a phone at 19.2 seconds, and sits up at 25.2 seconds.",
+      "score": 76.5,
+      "fingerprint": "333211d2d2c10301.637262e2c2d11201.03d251d2e2e17101"
     }
   ],
   "pending": [
-    {
-      "id": "8fcfca26e768034fb01a",
-      "span": {
-        "source": "youtube:Ra6sNe8s2Hc",
-        "start": 386.26,
-        "end": 407.26
-      },
-      "theme": "chase",
-      "hook": "Fleeing police after a successful heist.",
-      "setup": "The player sneaks into the back office of a pawn shop to crack the safe while avoiding police attention.",
-      "payoff": "The player successfully cracks the safe, grabs jewelry, and escapes out the front door as police arrive.",
-      "evidence": "Cash and jewelry are rapidly picked up, raising the balance to over $8,000 before escaping the shop.",
-      "score": 90.0,
-      "fingerprint": ""
-    },
-    {
-      "id": "1bf68363fe059b679697",
-      "span": {
-        "source": "youtube:Ve2M5i_DSKI",
-        "start": 50194.13,
-        "end": 50233.13
-      },
-      "theme": "mission",
-      "hook": "Jason changes his outfit before entering a jewelry store to pull off a robbery.",
-      "setup": "Jason parks his car on the street, opens his inventory, and equips a cap and face wrap.",
-      "payoff": "Jason runs into Donovan Banks & Co. jewelry store with his weapon drawn to begin the heist.",
-      "evidence": "Search the safe for the Amethyst Necklace",
-      "score": 90.0,
-      "fingerprint": ""
-    },
-    {
-      "id": "6542ed3874f20fb0b9cd",
-      "span": {
-        "source": "youtube:RKHyVcR0aZc",
-        "start": 496.6,
-        "end": 535.6
-      },
-      "theme": "chase",
-      "hook": "Escaping the police in a coffee van",
-      "setup": "The player runs out of the store while a police helicopter circles overhead.",
-      "payoff": "The player enters a Bean Machine coffee van and stows the stolen bags in the back.",
-      "evidence": "GET THE WAKE CUP!",
-      "score": 88.0,
-      "fingerprint": ""
-    },
-    {
-      "id": "b151b2e0ec582af23543",
-      "span": {
-        "source": "youtube:5tdj53ioJ-c",
-        "start": 12850.07,
-        "end": 12870.07
-      },
-      "theme": "mission",
-      "hook": "Characters discussing a high-stakes job on a rooftop",
-      "setup": "Raul and Lucia talk about their options and targets while dining on a terrace overlooking Vice City.",
-      "payoff": "Raul receives a notification to plan the job, transitioning the scene.",
-      "evidence": "This is the only way I see us getting out.",
-      "score": 85.0,
-      "fingerprint": ""
-    },
     {
       "id": "ba9d72ff15f6c59e581d",
       "span": {
@@ -1376,21 +1433,6 @@
       "fingerprint": ""
     },
     {
-      "id": "4e2c4255b47f60effde8",
-      "span": {
-        "source": "youtube:XUQ7qoZjNBA",
-        "start": 24644.19,
-        "end": 24666.19
-      },
-      "theme": "chase",
-      "hook": "Armored truck plows through traffic",
-      "setup": "The player drives an armored vehicle through narrow alleys and streets",
-      "payoff": "Explosions and police cars chase the vehicle as it fires weapons",
-      "evidence": "I don't even want to pick",
-      "score": 85.0,
-      "fingerprint": ""
-    },
-    {
       "id": "dda740ab3cb17052190d",
       "span": {
         "source": "youtube:GMZzFJsf844",
@@ -1417,21 +1459,6 @@
       "setup": "Lucia is confronted by armed tactical officers who order her to put her hands up.",
       "payoff": "Lucia resists arrest, resulting in a physical altercation on the floor before being subdued.",
       "evidence": "Lucia yells 'Fuck you, Giorgio, fuck you!' before being tackled to the ground by officers.",
-      "score": 85.0,
-      "fingerprint": ""
-    },
-    {
-      "id": "7891e9d39bcca79f487c",
-      "span": {
-        "source": "youtube:Ra6sNe8s2Hc",
-        "start": 421.0,
-        "end": 441.0
-      },
-      "theme": "comedy",
-      "hook": "Why are the NPCs randomly robbing the player?",
-      "setup": "The player drives an SUV down the street while commenting on their getaway strategy.",
-      "payoff": "Random NPCs on the street start pulling guns and trying to carjack the player's vehicle.",
-      "evidence": "NPCs holding guns and shouting near cars while approaching the player's SUV.",
       "score": 85.0,
       "fingerprint": ""
     },
@@ -1481,6 +1508,51 @@
       "fingerprint": ""
     },
     {
+      "id": "8bd3839824a67479b74d",
+      "span": {
+        "source": "youtube:Ra6sNe8s2Hc",
+        "start": 719.99,
+        "end": 742.99
+      },
+      "theme": "chase",
+      "hook": "The player attempts a jewelry store robbery but struggles with heavy loot bags.",
+      "setup": "The player enters a jewelry store, shoots a guard, and begins smashing display cases to gather jewelry while alarms sound.",
+      "payoff": "The player escapes with the bags, gets into a stolen police car, and crashes during the getaway.",
+      "evidence": "Jewelry store heist mechanics and police car theft visible on screen.",
+      "score": 85.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "f4c12a93e657c1019f67",
+      "span": {
+        "source": "youtube:Ve2M5i_DSKI",
+        "start": 71.0,
+        "end": 96.0
+      },
+      "theme": "mission",
+      "hook": "Lucia and Jason talk to a police officer by a car.",
+      "setup": "Lucia argues with Jason over who was driving the car.",
+      "payoff": "Lucia angrily strikes the police officer, knocking him down.",
+      "evidence": "Lucia says 'You're fucking dead!' and hits the officer.",
+      "score": 85.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "8313e76aefe4b6f1998c",
+      "span": {
+        "source": "youtube:c88810jEKMw",
+        "start": 15050.0,
+        "end": 15066.0
+      },
+      "theme": "mission",
+      "hook": "Confronting guards at a restricted compound.",
+      "setup": "Lucia walks up to the gated entrance of Farmfix to pick up chemicals for Kyle.",
+      "payoff": "The guard questions Lucia's identity, leading to dialogue about Kyle's batch.",
+      "evidence": "Farmfix sign and guard standing behind a chain-link fence.",
+      "score": 85.0,
+      "fingerprint": ""
+    },
+    {
       "id": "07ce0481786b059984eb",
       "span": {
         "source": "youtube:5tdj53ioJ-c",
@@ -1522,6 +1594,21 @@
       "setup": "The player finds a safe code note on a desk.",
       "payoff": "The player enters the safe code and loots precious jewelry.",
       "evidence": "Safe code: 6727",
+      "score": 82.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "fee2c757648c4a197b43",
+      "span": {
+        "source": "youtube:Ve2M5i_DSKI",
+        "start": 366.0,
+        "end": 421.0
+      },
+      "theme": "mission",
+      "hook": "Lucia complains in the kitchen while opening a fridge.",
+      "setup": "Lucia talks to Jason about his car-theft exploits.",
+      "payoff": "Lucia expresses frustration about not being included in crimes and storms off.",
+      "evidence": "Lucia says 'This is bullshit. I'll just go out on my own.'",
       "score": 82.0,
       "fingerprint": ""
     },
@@ -1586,21 +1673,6 @@
       "fingerprint": ""
     },
     {
-      "id": "7ef62d7d21c4b92ca9f3",
-      "span": {
-        "source": "youtube:OIeLbmyraRQ",
-        "start": 13067.96,
-        "end": 13097.96
-      },
-      "theme": "discovery",
-      "hook": "Checking the map for mission objectives and locations",
-      "setup": "The player opens the world map of Vice City to find the next mission.",
-      "payoff": "Various safehouses, stores, and robbery opportunities are highlighted across Leonida.",
-      "evidence": "Map interface showing Vice City and surrounding counties.",
-      "score": 80.0,
-      "fingerprint": ""
-    },
-    {
       "id": "9611c5475c00335eef56",
       "span": {
         "source": "youtube:5tdj53ioJ-c",
@@ -1646,17 +1718,47 @@
       "fingerprint": ""
     },
     {
-      "id": "a8a0ed037bcc9badbb60",
+      "id": "5328eb4204a2e320f707",
       "span": {
-        "source": "youtube:1GeQU0SEC-E",
-        "start": 1165.57,
-        "end": 1207.57
+        "source": "youtube:Ra6sNe8s2Hc",
+        "start": 939.99,
+        "end": 967.99
       },
       "theme": "discovery",
-      "hook": "Grabbing quick cash from the floorboards.",
-      "setup": "The player is short on cash and checks their hidden stash under the floorboards.",
-      "payoff": "Jason retrieves all his savings, increasing his cash total significantly.",
-      "evidence": "I went to my personal stash and grabbed everything there.",
+      "hook": "An office safe requires an explosive rather than a code.",
+      "setup": "The player infiltrates the back office of a business and approaches a locked Simmons safe.",
+      "payoff": "The player plants an explosive on the safe, blowing it open to reveal hidden cash and jewelry inside.",
+      "evidence": "Safe cracking interaction prompt 'PLANT EXPLOSIVE' displayed on screen.",
+      "score": 80.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "13b99f9216ac2723b0b8",
+      "span": {
+        "source": "youtube:Ve2M5i_DSKI",
+        "start": 127.0,
+        "end": 160.0
+      },
+      "theme": "mission",
+      "hook": "Jason and Lucia pull over in a red car.",
+      "setup": "Jason tells Lucia to kill the engine and get down while hiding.",
+      "payoff": "Jason asks Lucia if she really stole the car for her mom, leading to character banter.",
+      "evidence": "Jason asks 'You really stole this for your mom?'",
+      "score": 80.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "99ed96612c093812075c",
+      "span": {
+        "source": "youtube:S3NEzaumEnQ",
+        "start": 10532.84,
+        "end": 10575.84
+      },
+      "theme": "driving",
+      "hook": "Ordering a ride-sharing vehicle.",
+      "setup": "Lucia opens a ride-sharing app on her in-game phone.",
+      "payoff": "Lucia flags down a vehicle and rides inside as a passenger.",
+      "evidence": "Lucia uses phone app to summon a car and enters it.",
       "score": 80.0,
       "fingerprint": ""
     },
@@ -1762,6 +1864,36 @@
       "setup": "Jason gets into his customized Vapid Dominator outside his apartment building in Vice City.",
       "payoff": "Jason drives through city streets, crashing into traffic while navigating to a mission marker.",
       "evidence": "Jason enters the black Vapid Dominator and drives through the streets.",
+      "score": 78.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "8c9fddc7ada006623ca4",
+      "span": {
+        "source": "youtube:Ra6sNe8s2Hc",
+        "start": 1027.99,
+        "end": 1067.99
+      },
+      "theme": "driving",
+      "hook": "A police car getaway goes wrong when the vehicle flips over on the highway.",
+      "setup": "Driving a stolen police car down city streets, the player heads onto the elevated highway.",
+      "payoff": "The police car hits traffic barriers and flips completely upside down on the highway.",
+      "evidence": "Police vehicle flipping over during a high-speed highway drive.",
+      "score": 78.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "3e077c6568ed9570765d",
+      "span": {
+        "source": "youtube:Ve2M5i_DSKI",
+        "start": 306.0,
+        "end": 327.0
+      },
+      "theme": "mission",
+      "hook": "Jason introduces himself to Lucia in the car.",
+      "setup": "Jason tells Lucia his name after a tense moment.",
+      "payoff": "Lucia introduces herself as they decide to go have some fun.",
+      "evidence": "Jason says 'I'm Jason' and Lucia replies 'Lucia.'",
       "score": 78.0,
       "fingerprint": ""
     },
@@ -2021,6 +2153,51 @@
       "fingerprint": ""
     },
     {
+      "id": "e54149769aa69a743b3f",
+      "span": {
+        "source": "youtube:hwSg39yIBGU",
+        "start": 47380.55,
+        "end": 47407.55
+      },
+      "theme": "comedy",
+      "hook": "An unexpected syringe interaction.",
+      "setup": "The male character holds a syringe near Lucia.",
+      "payoff": "Lucia injects herself, then continues working out with a boost.",
+      "evidence": "Lucio said that Juice!",
+      "score": 75.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "a9f65b79e6cc56cd07fb",
+      "span": {
+        "source": "youtube:S3NEzaumEnQ",
+        "start": 10155.84,
+        "end": 10183.84
+      },
+      "theme": "driving",
+      "hook": "Lucia approaches a custom car.",
+      "setup": "Lucia walks across a lot toward a vehicle.",
+      "payoff": "Lucia enters the custom car and the view transitions to a map overview.",
+      "evidence": "Character walks to vehicle and enters it.",
+      "score": 75.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "64b2795860b566d0a928",
+      "span": {
+        "source": "youtube:c88810jEKMw",
+        "start": 14868.0,
+        "end": 14884.0
+      },
+      "theme": "discovery",
+      "hook": "Sorting gear and loadout inside the safehouse.",
+      "setup": "Lucia accesses the weapon and clothing locker.",
+      "payoff": "The player equips various sidearms and checks stats while Jason comments on the safehouse statue.",
+      "evidence": "WEAPONS/ITEMS menu shows various firearms with stats like Damage and Accuracy.",
+      "score": 75.0,
+      "fingerprint": ""
+    },
+    {
       "id": "b942f5a6df1214e7a689",
       "span": {
         "source": "youtube:eQ0LhWrcuKQ",
@@ -2032,6 +2209,36 @@
       "setup": "Lucia checks in via phone with Vicki regarding the doctor and pills.",
       "payoff": "The contact explains that appointments and scheduling take time.",
       "evidence": "It's all appointments, and schedules, and like official business stuff.",
+      "score": 72.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "7222b22efed09e39a52b",
+      "span": {
+        "source": "youtube:S3NEzaumEnQ",
+        "start": 10373.84,
+        "end": 10412.84
+      },
+      "theme": "discovery",
+      "hook": "Lucia returns to the drug lab apartment.",
+      "setup": "Lucia navigates back through hospital staff and outside.",
+      "payoff": "Lucia returns to the apartment with chemical flasks and answers a phone call.",
+      "evidence": "Lucia re-enters the apartment with chemical equipment.",
+      "score": 72.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "8df16fcec11ed607f602",
+      "span": {
+        "source": "youtube:c88810jEKMw",
+        "start": 15163.0,
+        "end": 15180.0
+      },
+      "theme": "driving",
+      "hook": "Escaping with the contraband van.",
+      "setup": "Lucia gets into the Declasse 80 Burrito van after completing the negotiation.",
+      "payoff": "The player drives out of the compound and onto the rural highway to deliver the cargo to Kyle.",
+      "evidence": "DECLASSE 80 BURRITO vehicle name prompt appears in the bottom left corner.",
       "score": 72.0,
       "fingerprint": ""
     },
@@ -2201,6 +2408,66 @@
       "fingerprint": ""
     },
     {
+      "id": "3745c85744bfdbfff210",
+      "span": {
+        "source": "youtube:Ve2M5i_DSKI",
+        "start": 50090.13,
+        "end": 50129.13
+      },
+      "theme": "discovery",
+      "hook": "A player checks their smartphone apps while driving.",
+      "setup": "Jason drives a silver sedan while interacting with his phone.",
+      "payoff": "The phone displays the 'BuckMe' finance app, text message conversations, and social media notifications.",
+      "evidence": "Phone screen shows 'buckme' app interface with checking account balance and transfer options.",
+      "score": 70.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "5af93fa2e755ac31bce3",
+      "span": {
+        "source": "youtube:hwSg39yIBGU",
+        "start": 47014.55,
+        "end": 47033.55
+      },
+      "theme": "mission",
+      "hook": "Lucia enters a gym and speaks with a trainer.",
+      "setup": "The trainer gives advice on squats.",
+      "payoff": "Lucia performs squats with the barbell under supervision.",
+      "evidence": "Now, I know you got this.",
+      "score": 70.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "d3957fca377dbe8853e6",
+      "span": {
+        "source": "youtube:S3NEzaumEnQ",
+        "start": 10283.84,
+        "end": 10315.84
+      },
+      "theme": "mission",
+      "hook": "Lucia visits a hospital while on the phone.",
+      "setup": "Lucia runs into a hospital while talking on her phone about a character named Tommy.",
+      "payoff": "Lucia explores hospital corridors before exiting back outside.",
+      "evidence": "Lucia runs through Vice City Hospital interior.",
+      "score": 70.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "8258f9fec0f995e9b46e",
+      "span": {
+        "source": "youtube:c88810jEKMw",
+        "start": 14838.0,
+        "end": 14854.0
+      },
+      "theme": "discovery",
+      "hook": "Inspecting vehicle registration and cost at a Pay 'N' Spray.",
+      "setup": "The player opens the vehicle options inside the spray shop.",
+      "payoff": "The game displays prices for repairs and registration, with the player deciding against spending money on registration.",
+      "evidence": "PAY 'N' SPRAY - AMBROSIA menu is visible with options to Repair, Respray, Register, and Sell.",
+      "score": 70.0,
+      "fingerprint": ""
+    },
+    {
       "id": "1df180e8da2f04f762f0",
       "span": {
         "source": "youtube:Mw4MrVRO_co",
@@ -2321,108 +2588,18 @@
       "fingerprint": ""
     },
     {
-      "id": "d11a875a1c93d85da7b6",
+      "id": "2c3d36b7f5bf9eb07f5a",
       "span": {
-        "source": "youtube:Ui5eAdG6a-I",
-        "start": 126.64,
-        "end": 160.64
+        "source": "twitch-vod:2933789253",
+        "start": 19934.65,
+        "end": 19944.65
       },
-      "theme": "mission",
-      "hook": "Sneaking around large cargo planes on the runway.",
-      "setup": "The player runs around parked commercial cargo jets under airport security alert.",
-      "payoff": "The player locates and boards a luxury private jet on the taxiway.",
-      "evidence": "The player runs past Postal Freight and Wayfarer Logistics hangars to enter a private jet.",
-      "score": 60.0,
-      "fingerprint": ""
-    },
-    {
-      "id": "23ef20f76187feeaf01d",
-      "span": {
-        "source": "youtube:oyHFwPNd_c4",
-        "start": 20800.806,
-        "end": 20815.206
-      },
-      "theme": "discovery",
-      "hook": "Browsing the map and waypoint locations in Vice City.",
-      "setup": "The player opens the map menu to examine Watson Bay and Grassrivers locations.",
-      "payoff": "The map interface closes and returns to the pilot flying over river terrain.",
-      "evidence": "Map interface showing Jason and Lucia with Watson Bay and Vice City landmarks.",
-      "score": 60.0,
-      "fingerprint": ""
-    },
-    {
-      "id": "bc886acf534f06210ce3",
-      "span": {
-        "source": "youtube:gBLQ-t_tywk",
-        "start": 76.0,
-        "end": 105.0
-      },
-      "theme": "driving",
-      "hook": "Driving through city traffic",
-      "setup": "Jason drives a silver sedan on a highway bridge heading towards downtown Vice City.",
-      "payoff": "The car slides off the road onto the sidewalk before continuing.",
-      "evidence": "Visual of the silver sedan sliding on the road at 1:25",
-      "score": 60.0,
-      "fingerprint": ""
-    },
-    {
-      "id": "1fd294e36364c6ba3ebb",
-      "span": {
-        "source": "youtube:hwSg39yIBGU",
-        "start": 26821.39,
-        "end": 26836.39
-      },
-      "theme": "discovery",
-      "hook": "Inventory management menu review",
-      "setup": "The player opens the weapon selection wheel while driving a red car in Vice City.",
-      "payoff": "The player opens the map menu to locate the Iron & Oak Ammu-Nation store.",
-      "evidence": "Inventory and map menus display HUD elements for 'JASON & LUCIA'.",
-      "score": 60.0,
-      "fingerprint": ""
-    },
-    {
-      "id": "28449a032721d40bfb08",
-      "span": {
-        "source": "youtube:5tdj53ioJ-c",
-        "start": 12100.09,
-        "end": 12131.09
-      },
-      "theme": "driving",
-      "hook": "Driving through Vice City streets.",
-      "setup": "The player drives a red SUV through city traffic.",
-      "payoff": "The player arrives at the apartment building and gets out.",
-      "evidence": "Driving the red SUV through the streets.",
-      "score": 60.0,
-      "fingerprint": ""
-    },
-    {
-      "id": "b325ebb24c2e7bca3b01",
-      "span": {
-        "source": "youtube:HzzzoomJ-Os",
-        "start": 11833.88,
-        "end": 11847.88
-      },
-      "theme": "driving",
-      "hook": "Lucia drives through town",
-      "setup": "Lucia is driving a convertible in GTA VI",
-      "payoff": "Lucia has a conversation about her friend and arriving at the destination",
-      "evidence": "Lucia driving a convertible with dialogue about heading to see her friend",
-      "score": 60.0,
-      "fingerprint": ""
-    },
-    {
-      "id": "966bed8987e65c792306",
-      "span": {
-        "source": "youtube:eQ0LhWrcuKQ",
-        "start": 10323.46,
-        "end": 10343.46
-      },
-      "theme": "comedy",
-      "hook": "Lucia offers water to an ailing Jason.",
-      "setup": "Lucia helps Jason drink water while he remains in bed recovering.",
-      "payoff": "Jason drinks water and rests as Lucia steps away to use her phone.",
-      "evidence": "Drink some water.",
-      "score": 60.0,
+      "theme": "other",
+      "hook": "Opening the weapon and item wheel menu.",
+      "setup": "Jason walks down the street and brings up the inventory interface.",
+      "payoff": "The weapon and item selection wheel appears on screen with categorized options.",
+      "evidence": "The interface wheel opens showing empty hands, weapons, and accessories.",
+      "score": 65.0,
       "fingerprint": ""
     }
   ],
@@ -2436,6 +2613,16 @@
       "theme": "mission",
       "story": "Lucia helps her mother clean up their dilapidated property, survives an alligator attack in the pool, deals with an armed gang confrontation, and ultimately uses an excavator to demolish the gang's house in retaliation.",
       "score": 95.0
+    },
+    {
+      "span": {
+        "source": "twitch-vod:2933599748",
+        "start": 27333.75,
+        "end": 27610.75
+      },
+      "theme": "mission",
+      "story": "A continuous gameplay sequence from leaving the garage in a convertible, driving through rural roads, crashing into a field, flipping the car, and running through the countryside.",
+      "score": 94.0
     },
     {
       "span": {
@@ -2666,6 +2853,16 @@
       "theme": "driving",
       "story": "A complete street race sequence featuring high speeds, traffic dodging, dramatic crashes, and vehicle flips.",
       "score": 90.0
+    },
+    {
+      "span": {
+        "source": "youtube:Ra6sNe8s2Hc",
+        "start": 719.99,
+        "end": 987.99
+      },
+      "theme": "mission",
+      "story": "The player conducts a series of robberies across different locations, dealing with security guards, cracking safes, changing disguises to lose wanted levels, and handling chaotic getaways in various stolen vehicles.",
+      "score": 88.0
     },
     {
       "span": {
@@ -2949,32 +3146,12 @@
     },
     {
       "span": {
-        "source": "twitch-vod:2935185818",
-        "start": 19113.74,
-        "end": 19413.74
-      },
-      "theme": "mission",
-      "story": "The studio scene with Roxy Luxe recording vocals, followed by Jason hanging out in the control room and listening to tracks.",
-      "score": 80.0
-    },
-    {
-      "span": {
-        "source": "youtube:eQ0LhWrcuKQ",
-        "start": 10186.46,
-        "end": 10446.46
+        "source": "twitch-vod:2933789253",
+        "start": 19708.65,
+        "end": 20058.65
       },
       "theme": "discovery",
-      "story": "Lucia checks in at the motel office, tends to an injured Jason in room 06, and makes secretive phone calls inside the room.",
-      "score": 80.0
-    },
-    {
-      "span": {
-        "source": "youtube:wpKUZWI0Ch4",
-        "start": 19186.05,
-        "end": 19456.05
-      },
-      "theme": "driving",
-      "story": "Jason drives his Vapid truck around town, uses the BuckMe mobile banking app to deposit money at an ATM, and eventually navigates to Brian's Marina to continue his tasks.",
+      "story": "Jason explores his living quarters, navigates text messages on his phone, interacts with items around the house, and walks outside into the neighborhood while managing mission instructions.",
       "score": 80.0
     }
   ]
