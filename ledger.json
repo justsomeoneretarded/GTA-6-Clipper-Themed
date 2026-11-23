@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "edits": [
+    {
+      "id": "931cf059a0a38ca8d312",
+      "ranges": [
+        {
+          "source": "youtube:8zpkGW2DGCo",
+          "start": 404.0,
+          "end": 425.0
+        },
+        {
+          "source": "twitch-vod:2932866051",
+          "start": 15260.95,
+          "end": 15274.75
+        },
+        {
+          "source": "youtube:GMZzFJsf844",
+          "start": 630.17,
+          "end": 642.67
+        },
+        {
+          "source": "twitch-vod:2934878423",
+          "start": 27149.27,
+          "end": 27179.02
+        }
+      ],
+      "fingerprints": [
+        "cb135c6c77e8e1c0.e338e9a90db0f8d4.c3c9d8514c62eaca",
+        "0c0c0848c0800040.0c161646c3830380.0c161246c7838680",
+        "6818142424022100.40cc9c2cb4322c00.48c00d4808060000",
+        "1902cec6eca9c9cc.210848608640c8c6.064e4cce46d2c3c6"
+      ],
+      "date": "2026-11-23T10:10:16Z"
+    }
+  ],
+  "rejected": [
+    {
+      "id": "68cdfaa6c40fec3cfb00",
+      "date": "2026-11-23T10:17:48Z",
+      "reason": "The finished edit lacked verifiable GTA VI evidence. The video uses fan-made mods and roleplay footage styled after GTA VI rather than official game content, violating the scope requirements."
+    }
+  ]
+}
